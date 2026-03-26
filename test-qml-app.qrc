@@ -1,0 +1,7 @@
+<RCC>
+    <qresource>
+        <file>main.qml</file>
+        <file>node_modules/@gavitron-intusurg/design-system/build/qml/Tokens.qml</file>
+        <file>test-qml-app.qmlproject</file>
+    </qresource>
+</RCC>
