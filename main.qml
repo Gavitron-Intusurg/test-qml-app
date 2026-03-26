@@ -1,6 +1,6 @@
 import QtQuick 2.15
 import QtQuick.Window 2.15
-import "design-system/build/qml" as DS
+import "node_modules/@gavitron-intusurg/design-system/build/qml" as DS
 
 Window {
     width: 640
@@ -24,7 +24,7 @@ Window {
                 text: "Hello World"
                 font.pixelSize: 28
                 font.bold: true
-                color: DS.Tokens.colorPrimary
+                color: DS.Tokens.colorContentPrimary
                 anchors.horizontalCenter: parent.horizontalCenter
             }
 

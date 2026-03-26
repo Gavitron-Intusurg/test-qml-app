@@ -1,0 +1,24 @@
+{
+  "name": "test-qml-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gavitron-Intusurg/test-qml-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gavitron-Intusurg/test-qml-app/issues"
+  },
+  "homepage": "https://github.com/Gavitron-Intusurg/test-qml-app#readme",
+  "dependencies": {
+    "@gavitron-intusurg/design-system": "^0.1.0"
+  }
+}
